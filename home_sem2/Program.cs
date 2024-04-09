@@ -97,5 +97,38 @@
 
 // Haptfu(num);
 
+// Задача 2: Напишите программу, которая принимает на вход координаты точки (X и Y), причём X ≠ 0 и Y ≠ 0 
+// и выдаёт номер координатной четверти плоскости, в которой находится эта точка.
 
 
+void Hrgf(int x, int y)
+{
+    if (x > 0 && y > 0)
+    {
+        System.Console.WriteLine("1");
+    }
+    else if (x < 0 && y >0 )
+    {
+        System.Console.WriteLine("2");
+    }
+    else if (x < 0 && y < 0)
+    {
+        System.Console.WriteLine("3");
+    }
+    else if (x > 0 && y < 0)
+    {
+        System.Console.WriteLine("4");
+    }
+    else
+    {
+        System.Console.WriteLine("The point is on the coordinate axis");
+    }
+}
+
+System.Console.WriteLine("Input coordinate x: ");
+int x = Convert.ToInt32(Console.ReadLine());
+System.Console.WriteLine("Input coordinate y: ");
+int y = Convert.ToInt32(Console.ReadLine());
+
+
+Hrgf(x, y);

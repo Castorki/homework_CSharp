@@ -12,3 +12,4 @@ C:\Users\Dasha\Desktop\SeminarCsharp_04.04\homework\home_sem2\obj\Debug\net8.0\r
 C:\Users\Dasha\Desktop\SeminarCsharp_04.04\homework\home_sem2\obj\Debug\net8.0\home_sem2.pdb
 C:\Users\Dasha\Desktop\SeminarCsharp_04.04\homework\home_sem2\obj\Debug\net8.0\home_sem2.genruntimeconfig.cache
 C:\Users\Dasha\Desktop\SeminarCsharp_04.04\homework\home_sem2\obj\Debug\net8.0\ref\home_sem2.dll
+C:\Users\Dasha\Desktop\SeminarCsharp_04.04\homework\home_sem2\obj\Debug\net8.0\home_sem2.sourcelink.json
