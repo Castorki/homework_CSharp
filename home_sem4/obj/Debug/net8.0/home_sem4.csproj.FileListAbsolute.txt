@@ -1,0 +1,15 @@
+C:\Users\Dasha\Desktop\SeminarCsharp_04.04\homework\home_sem4\obj\Debug\net8.0\home_sem4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dasha\Desktop\SeminarCsharp_04.04\homework\home_sem4\obj\Debug\net8.0\home_sem4.AssemblyInfoInputs.cache
+C:\Users\Dasha\Desktop\SeminarCsharp_04.04\homework\home_sem4\obj\Debug\net8.0\home_sem4.AssemblyInfo.cs
+C:\Users\Dasha\Desktop\SeminarCsharp_04.04\homework\home_sem4\obj\Debug\net8.0\home_sem4.csproj.CoreCompileInputs.cache
+C:\Users\Dasha\Desktop\SeminarCsharp_04.04\homework\home_sem4\obj\Debug\net8.0\home_sem4.sourcelink.json
+C:\Users\Dasha\Desktop\SeminarCsharp_04.04\homework\home_sem4\bin\Debug\net8.0\home_sem4.exe
+C:\Users\Dasha\Desktop\SeminarCsharp_04.04\homework\home_sem4\bin\Debug\net8.0\home_sem4.deps.json
+C:\Users\Dasha\Desktop\SeminarCsharp_04.04\homework\home_sem4\bin\Debug\net8.0\home_sem4.runtimeconfig.json
+C:\Users\Dasha\Desktop\SeminarCsharp_04.04\homework\home_sem4\bin\Debug\net8.0\home_sem4.dll
+C:\Users\Dasha\Desktop\SeminarCsharp_04.04\homework\home_sem4\bin\Debug\net8.0\home_sem4.pdb
+C:\Users\Dasha\Desktop\SeminarCsharp_04.04\homework\home_sem4\obj\Debug\net8.0\home_sem4.dll
+C:\Users\Dasha\Desktop\SeminarCsharp_04.04\homework\home_sem4\obj\Debug\net8.0\refint\home_sem4.dll
+C:\Users\Dasha\Desktop\SeminarCsharp_04.04\homework\home_sem4\obj\Debug\net8.0\home_sem4.pdb
+C:\Users\Dasha\Desktop\SeminarCsharp_04.04\homework\home_sem4\obj\Debug\net8.0\home_sem4.genruntimeconfig.cache
+C:\Users\Dasha\Desktop\SeminarCsharp_04.04\homework\home_sem4\obj\Debug\net8.0\ref\home_sem4.dll
